@@ -1,5 +1,5 @@
 Hi there, I'm Shilkumar Patil 👋
-Hi there, I'm Shilkumar Patil 👋
+
 🎓 I have recently completed my graduation in mechanical engineering, and I am excited about transitioning into the IT field for my career.
 
 💻 Throughout my education, I have developed a strong passion for technology and programming. I have been actively learning and gaining knowledge in various IT domains, including software development, web technologies, and database management.
