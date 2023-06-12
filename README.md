@@ -5,12 +5,19 @@ I am Shilkumar Patil, a recent graduate passionate about technology and aspiring
 
 ## 🚀 Skills
 🚀 Programming Language: Java(Core & Advance)
+
 🌐 Web development: HTML, CSS, JavaScript
+
 🗄️ Database: MySQL
+
 🔩 Frameworks: Spring Boot
+
 🔀 Version Control: Git, GitHub
+
 🔍 Problem-solving and analytical thinking
+
 🤝 Teamwork and collaboration
+
 💬 Strong communication skills
 
 ## 🎓 Education
