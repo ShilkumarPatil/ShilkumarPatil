@@ -28,8 +28,8 @@ I am Shilkumar Patil, a recent graduate passionate about technology and aspiring
 I am passionate about staying up-to-date with the latest advancements in technology, exploring new programming languages and frameworks, and learning about emerging trends in the IT industry. I enjoy solving challenging problems, collaborating with others, and continuously enhancing my skills.
 
 ## 📞 Contact
-- Email: [your-email@example.com](mailto:shilkumarpatil26@egmail.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/shilkumar-patil-7560901ba/)
-- GitHub: [github.com/your-username](https://github.com/ShilkumarPatil)
+- Email: [shilkumarpatil26@gmail.com](mailto:shilkumarpatil26@egmail.com)
+- LinkedIn: [linkedin.com/in/Shilkumar-Patil](https://www.linkedin.com/in/shilkumar-patil-7560901ba/)
+- GitHub: [github.com/ShilkumarPatil](https://github.com/ShilkumarPatil)
 
 Feel free to reach out to me via email or LinkedIn. I am open to new opportunities and excited to contribute to the IT industry.
