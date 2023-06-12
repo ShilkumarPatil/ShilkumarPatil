@@ -4,19 +4,19 @@
 I am Shilkumar Patil, a recent graduate passionate about technology and aspiring to join the IT industry. I completed my graduation in 2022 and have a strong foundation in computer programming. My goal is to contribute my skills and knowledge to innovative projects and collaborate with talented individuals to create impactful solutions.
 
 ## 🚀 Skills
-🚀 Programming Language: Java(Core & Advance)
+🚀  Programming Language: Java(Core & Advance)
 
-🌐 Web development: HTML, CSS, JavaScript
+🌐  Web development: HTML, CSS, JavaScript
 
-🗄️ Database: MySQL
+🗄️   Database: MySQL
 
-🔩 Frameworks: Spring Boot
+🔩  Frameworks: Spring Boot
 
-🔀 Version Control: Git, GitHub
+🔀  Version Control: Git, GitHub
 
-🔍 Problem-solving and analytical thinking
+🔍  Problem-solving and analytical thinking
 
-🤝 Teamwork and collaboration
+🤝  Teamwork and collaboration
 
 💬 Strong communication skills
 
